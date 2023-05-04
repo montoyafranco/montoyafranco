@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Pokedex**
+- 🔭 I’m currently working on Microservices with Reactive Java ( Webflux)  & Angular 
 
-- 🌱 I’m currently learning **Tailwind - Angular -Firebase**
+- 🌱 I’m currently learning AWS 
 
 - 👨‍💻 All of my projects are available at [https://agustin-montoya-portfolio.netlify.app/](https://agustin-montoya-portfolio.netlify.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about Java
 
 - 📫 How to reach me **francomontoya9810@gmail.com**
 
